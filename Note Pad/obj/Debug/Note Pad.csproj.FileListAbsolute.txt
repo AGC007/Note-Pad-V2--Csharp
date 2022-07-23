@@ -1,0 +1,42 @@
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\bin\Debug\Note Pad.exe
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\bin\Debug\Note Pad.pdb
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Debug\Note Pad.csprojResolveAssemblyReference.cache
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Debug\Note_Pad.Form1.resources
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Debug\Note_Pad.Properties.Resources.resources
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Debug\Note Pad.csproj.GenerateResource.Cache
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Debug\Note Pad.exe
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Debug\Note Pad.pdb
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Debug\Note_Pad.Form1.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Debug\Note_Pad.FormFind.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Debug\Note_Pad.Properties.Resources.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Debug\Note Pad.csproj.GenerateResource.Cache
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Debug\Note_Pad.Replace.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Debug\Note_Pad.Goto.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\bin\Debug\NotePad 2.1.1 +AGC007+.exe.config
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\bin\Debug\NotePad 2.1.1 +AGC007+.exe
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\bin\Debug\NotePad 2.1.1 +AGC007+.pdb
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Debug\NotePad 2.1.1 +AGC007+.exe
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Debug\NotePad 2.1.1 +AGC007+.pdb
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\bin\Debug\NotePad 2.1.1 +AGC007+.exe.config
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\obj\Debug\NotePad 2.1.1 +AGC007+.exe
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\obj\Debug\NotePad 2.1.1 +AGC007+.pdb
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\bin\Debug\NotePad 2.1.1 +AGC007+.exe
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\bin\Debug\NotePad 2.1.1 +AGC007+.pdb
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\obj\Debug\Note Pad.csprojResolveAssemblyReference.cache
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\obj\Debug\Note_Pad.Form1.resources
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\obj\Debug\Note_Pad.FormFind.resources
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\obj\Debug\Note_Pad.Goto.resources
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\obj\Debug\Note_Pad.Properties.Resources.resources
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\obj\Debug\Note_Pad.Replace.resources
+E:\پروژه\VS_Project\Normal\Note_Pad\Note Pad\obj\Debug\Note Pad.csproj.GenerateResource.Cache
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\bin\Debug\NotePad 2.1.1 +AGC007+.exe.config
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\obj\Debug\NotePad 2.1.1 +AGC007+.exe
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\obj\Debug\NotePad 2.1.1 +AGC007+.pdb
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\bin\Debug\NotePad 2.1.1 +AGC007+.exe
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\bin\Debug\NotePad 2.1.1 +AGC007+.pdb
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\obj\Debug\Note_Pad.Form1.resources
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\obj\Debug\Note_Pad.FormFind.resources
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\obj\Debug\Note_Pad.Goto.resources
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\obj\Debug\Note_Pad.Properties.Resources.resources
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\obj\Debug\Note_Pad.Replace.resources
+E:\پروژه\VS_Project\Normal\Note_Pad_V2\Note Pad\obj\Debug\Note Pad.csproj.GenerateResource.Cache

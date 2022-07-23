@@ -1,0 +1,21 @@
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\bin\Release\Note Pad.exe
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\bin\Release\Note Pad.pdb
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Release\Note Pad.csprojResolveAssemblyReference.cache
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Release\Note_Pad.Form1.resources
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Release\Note_Pad.Properties.Resources.resources
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Release\Note Pad.csproj.GenerateResource.Cache
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Release\Note Pad.exe
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Release\Note Pad.pdb
+E:\پروژه\Form\Note Pad\Note Pad\Note Pad\obj\Release\Note_Pad.FormFind.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Release\Note Pad.csprojResolveAssemblyReference.cache
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Release\Note_Pad.Form1.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Release\Note_Pad.FormFind.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Release\Note_Pad.Properties.Resources.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Release\Note Pad.csproj.GenerateResource.Cache
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Release\Note_Pad.Replace.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\bin\Release\Notepad 1.1.0 + AGC007 +.exe.config
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\bin\Release\Notepad 1.1.0 + AGC007 +.exe
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\bin\Release\Notepad 1.1.0 + AGC007 +.pdb
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Release\Note_Pad.Goto.resources
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Release\Notepad 1.1.0 + AGC007 +.exe
+E:\پروژه\Form\Normal_P\Note_Pad\Note Pad\obj\Release\Notepad 1.1.0 + AGC007 +.pdb
