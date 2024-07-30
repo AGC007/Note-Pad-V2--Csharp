@@ -1,6 +1,7 @@
 # 💥 [-NotepadV2 [v2] By AGC007™-] 💥
 
-![a](https://github.com/user-attachments/assets/56e5649c-a768-4d12-b946-45df70ea7755)
+![image](https://github.com/user-attachments/assets/bb5fc0ce-3250-49b2-a5d0-a12c50f71133)
+
 
 
 ⏺ نسخه پیشرفته Notepad ویندوز با امکانات جدید و محیطی متفاوت و قابل تغییر
