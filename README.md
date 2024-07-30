@@ -1,19 +1,8 @@
-# Note-Pad-V2--Csharp
+# 💥 [-NotepadV2 [v2] By AGC007™-] 💥
 
-NotepadV2 [v2] By AGC007™ -- C# :
 
--- Menu Change Position
+⏺ نسخه پیشرفته Notepad ویندوز با امکانات جدید و محیطی متفاوت و قابل تغییر
 
--- New Style
+⏺ The advanced version of Windows Notepad with new features and a different and changeable environment
 
--- New Color 
 
--- New Mode
-
--- More.. 
-
--- Fast Speed
-
--- C#
-
-------- Developed by AGC007 -------
